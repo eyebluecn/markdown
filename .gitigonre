@@ -2,5 +2,5 @@ node_modules/
 dist/
 npm-debug.log*
 
-#Editor directories and files
+# Editor directories and files
 .idea
